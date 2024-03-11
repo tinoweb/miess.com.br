@@ -1,0 +1,470 @@
+[
+    {
+        "Nome do produto": "Tanga Caleçon em Renda com Fita de Cetim Transpassada Patitex",
+        "Descrição do produto": "<div class=\"productDescription\">\n A tanga Caleçon é maravilhosa e de conforto único por não possuir elástico nas pernas e ter um corte que valoriza o corpo como nenhuma outra. Esse modelo\n <strong>\n  rendado\n </strong>\n possui um lacinho na frontal e na parte de trás uma\n <strong>\n  linda fita de cetim\n </strong>\n para realizar a\n <strong>\n  amarração\n </strong>\n dando um toque muito sensual, para uma noite inesquecível.\n <br/>\n <br/>\n <strong>\n  Ficha Técnica:\n </strong>\n <br/>\n 90% Poliamida.\n <br/>\n 10% Elastano.\n <br/>\n 100% Algodão no forro.\n <br/>\n <br/>\n <strong>\n  Modo de Lavar:\n </strong>\n <br/>\n Lavar sempre à mão.\n <br/>\n Não alvejar.\n <br/>\n Não secar em tambor.\n <br/>\n Máximo 110°\n <br/>\n Não limpar a seco.\n <br/>\n <br/>\n</div>\n",
+        "Variações do produto": [
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/178259-1000-1000/426PT-P-Azul-Marinho_1.jpg?v=637183645862130000",
+                "SKU": 28946,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201930-1000-1000/426PT-Azul-Marinho_1.jpg?v=637226451395770000",
+                "SKU": 28947,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201932-1000-1000/426PT-Azul-Marinho_1.jpg?v=637226451661270000",
+                "SKU": 28948,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201934-1000-1000/426PT-Azul-Marinho_1.jpg?v=637226451952930000",
+                "SKU": 28949,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/178261-1000-1000/426PT-P-Vermelho_1.jpg?v=637183646034070000",
+                "SKU": 28950,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201936-1000-1000/426PT-Vermelho_1.jpg?v=637226452716670000",
+                "SKU": 28951,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201938-1000-1000/426PT-Vermelho_1.jpg?v=637226453123000000",
+                "SKU": 28952,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201940-1000-1000/426PT-Vermelho_1.jpg?v=637226453420900000",
+                "SKU": 28953,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/178263-1000-1000/426PT-P-Vinho_1.jpg?v=637183646170130000",
+                "SKU": 28954,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201942-1000-1000/426PT-Vinho_1.jpg?v=637226454218130000",
+                "SKU": 28955,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201944-1000-1000/426PT-Vinho_1.jpg?v=637226454459200000",
+                "SKU": 28956,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201946-1000-1000/426PT-Vinho_1.jpg?v=637226454795630000",
+                "SKU": 28957,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/178265-1000-1000/426PT-P-Rose_1.jpg?v=637183646315870000",
+                "SKU": 28958,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201948-1000-1000/426PT-Rose_1.jpg?v=637226455819300000",
+                "SKU": 28959,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201950-1000-1000/426PT-Rose_1.jpg?v=637226456137670000",
+                "SKU": 28960,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201952-1000-1000/426PT-Rose_1.jpg?v=637226456378930000",
+                "SKU": 28961,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/178297-1000-1000/426PT-P-Preto_1.jpg?v=637183648487000000",
+                "SKU": 28999,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 8,54"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201960-1000-1000/426PT-Preto_1.jpg?v=637226458766500000",
+                "SKU": 29000,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201962-1000-1000/426PT-Preto_1.jpg?v=637226459147630000",
+                "SKU": 29001,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201964-1000-1000/426PT-Preto_1.jpg?v=637226459388030000",
+                "SKU": 29002,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/209324-1000-1000/426PT-P-Azul-Claro_1.jpg?v=637362912829600000",
+                "SKU": 43848,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/209687-1000-1000/426PT-M-Azul-Claro_1.jpg?v=637369086199870000",
+                "SKU": 43849,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/209326-1000-1000/426PT-G-Azul-Claro_1.jpg?v=637362912917430000",
+                "SKU": 43850,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/209689-1000-1000/426PT-GG-Azul-Claro_1.jpg?v=637369086687000000",
+                "SKU": 43851,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201954-1000-1000/426PT-Branco_1.jpg?v=637226456925570000",
+                "SKU": 28963,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201956-1000-1000/426PT-Branco_1.jpg?v=637226457824030000",
+                "SKU": 28964,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/201958-1000-1000/426PT-Branco_1.jpg?v=637226458081900000",
+                "SKU": 28965,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/178267-1000-1000/426PT-P-Branco_1.jpg?v=637183646453170000",
+                "SKU": 28962,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 9,04"
+            }
+        ],
+        "Preço do produto": "R$ 9,04",
+        "Novo preço (150%)": 13.559999999999999,
+        "titulo": "Tanga Caleçon em Renda com Fita de Cetim Transpassada Patitex",
+        "ProdutoEsgotado": false
+    },
+    {
+        "Nome do produto": "Calcinha Calesson com Renda e Microfibra Patitex",
+        "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  Sua procura da calcinha confortável acabou!\n </p>\n <br/>\n <p>\n  Uma calcinha muito\n  <strong>\n   charmosa\n  </strong>\n  ,\n  <strong>\n   delicada\n  </strong>\n  e\n  <strong>\n   sensual\n  </strong>\n  , tudo pensado para que você tenha o maior conforto possível sem falar na maravilha que ficará em seu corpo.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como saber se a Calcinha Calesson ficará bem no corpo?\n  </strong>\n </h3>\n <br/>\n <p>\n  Sobre isso não precisa ter dúvidas, já que essa calcinha possui\n  <strong>\n   renda\n  </strong>\n  e\n  <strong>\n   microfibra\n  </strong>\n  , tecidos que vestem muito bem e possuem um caimento perfeito no corpo, te deixando ainda mais linda.\n  <br/>\n  <br/>\n  A Calcinha por se adequar super bem ao corpo, ela ainda ajuda a l\n  <strong>\n   evantar o bumbum\n  </strong>\n  , dando aquela leve empinada, te valorizando ainda mais, a calcinha em renda ainda deixará tudo ainda mais bonito te dando muito conforto para que você possa usá-la em qualquer tipo de ocasião, até mesmo para dormir.\n </p>\n <br/>\n <h3>\n  <strong>\n   Quais os benefícios da Calcinha Calesson?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Seduzente;\n   <br/>\n   <li>\n    • Provocante;\n    <br/>\n    <li>\n     • Confortável;\n     <br/>\n     <li>\n      • Ótimo para dormir e usá-lo casualmente;\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 Calcinha rendada\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem\n    </strong>\n    : Saquinho plástico\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Qual a Composição da Calcinha Calesson da Patitex?\n  </strong>\n </h3>\n <br/>\n <p>\n  90% Poliéster e 10% Elastano\n </p>\n <br/>\n <h3>\n  <strong>\n   Quais Cuidados e Precauções Preciso Ter ao Usar a Calesson?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n   </strong>\n   Lavagem manual, no máximo 40ºC.\n   <br/>\n   <li>\n    •\n    <strong>\n    </strong>\n    Não alvejar.\n    <br/>\n    <li>\n     •\n     <strong>\n     </strong>\n     Secar ao abrigo do sol.\n     <br/>\n     <li>\n      •\n      <strong>\n      </strong>\n      Não secar em tambor.\n      <br/>\n      <li>\n       •\n       <strong>\n       </strong>\n       Não limpar a seco.\n       <br/>\n       <li>\n        •\n        <strong>\n        </strong>\n        Secar por gotejamento.\n        <br/>\n        <li>\n         •\n         <strong>\n         </strong>\n         Não compartilhe o acessório.\n        </li>\n       </li>\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Clique e veja os produtos que podem ser utilizados com a Calcinha Calesson:\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <a href=\"https://www.miess.com.br/lingerie/sutia\">\n    Sutiã\n   </a>\n   <br/>\n   <li>\n    •\n    <a href=\"https://www.miess.com.br/lingerie/meia-calca\">\n     Meias\n    </a>\n    <br/>\n    <li>\n     •\n     <a href=\"https://www.miess.com.br/robe\">\n      Robes\n     </a>\n     <br/>\n     <li>\n      •\n      <a href=\"https://www.miess.com.br/perneira\">\n       Perneira\n      </a>\n      <br/>\n      <li>\n       •\n       <a href=\"https://www.miess.com.br/mascara\">\n        Máscaras\n       </a>\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n</div>\n",
+        "Variações do produto": [
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219748-1000-1000/304-P-Vermelho_1.jpg?v=637545500563270000",
+                "SKU": 46354,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 7,37"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219806-1000-1000/304-M-Vermelho_1.jpg?v=637545537736600000",
+                "SKU": 46355,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219750-1000-1000/304-G-Vermelho_1.jpg?v=637545500733730000",
+                "SKU": 46356,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219752-1000-1000/304-GG-Vermelho_1.jpg?v=637545500780830000",
+                "SKU": 46357,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219754-1000-1000/304-P-Branco_1.jpg?v=637545500830230000",
+                "SKU": 46358,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 7,37"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219756-1000-1000/304-M-Branco_1.jpg?v=637545500877800000",
+                "SKU": 46359,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219758-1000-1000/304-G-Branco_1.jpg?v=637545500924470000",
+                "SKU": 46360,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Branco",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219760-1000-1000/304-GG-Branco_1.jpg?v=637545501003930000",
+                "SKU": 46361,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219762-1000-1000/304-P-Preto_1.jpg?v=637545501116070000",
+                "SKU": 46362,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219764-1000-1000/304-M-Preto_1.jpg?v=637545501230870000",
+                "SKU": 46363,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219766-1000-1000/304-G-Preto_1.jpg?v=637545501343530000",
+                "SKU": 46364,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219768-1000-1000/304-GG-Preto_1.jpg?v=637545501459930000",
+                "SKU": 46365,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219770-1000-1000/304-P-Azul-Marinho_1.jpg?v=637545501593530000",
+                "SKU": 46366,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219772-1000-1000/304-M-Azul-Marinho_1.jpg?v=637545501651100000",
+                "SKU": 46367,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219774-1000-1000/304-G-Azul-Marinho_1.jpg?v=637545501697770000",
+                "SKU": 46368,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Marinho",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219776-1000-1000/304-GG-Azul-Marinho_1.jpg?v=637545501745130000",
+                "SKU": 46369,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219778-1000-1000/304-P-Rose_1.jpg?v=637545501790970000",
+                "SKU": 46370,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 7,37"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219780-1000-1000/304-M-Rose_1.jpg?v=637545501832270000",
+                "SKU": 46371,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219782-1000-1000/304-G-Rose_1.jpg?v=637545501877200000",
+                "SKU": 46372,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Rose",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219784-1000-1000/304-GG-Rose_1.jpg?v=637545501925570000",
+                "SKU": 46373,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219786-1000-1000/304-P-Vinho_1.jpg?v=637545501974500000",
+                "SKU": 46374,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 7,37"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219788-1000-1000/304-M-Vinho_1.jpg?v=637545502019000000",
+                "SKU": 46375,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219790-1000-1000/304-G-Vinho_1.jpg?v=637545502064870000",
+                "SKU": 46376,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vinho",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/219792-1000-1000/304-GG-Vinho_1.jpg?v=637545502108470000",
+                "SKU": 46377,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "P",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/234620-1000-1000/304-P-Azul-Claro_1.jpg?v=637668179517370000",
+                "SKU": 50750,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 7,37"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "M",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/234622-1000-1000/304-M-Azul-Claro_1.jpg?v=637668179599670000",
+                "SKU": 50751,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "G",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/234624-1000-1000/304-G-Azul-Claro_1.jpg?v=637668179657930000",
+                "SKU": 50752,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul Claro",
+                "Tamanho da variação": "GG",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/234626-1000-1000/304-GG-Azul-Claro_1.jpg?v=637668179705170000",
+                "SKU": 50753,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            }
+        ],
+        "Preço do produto": "R$ 9.999.876,00",
+        "Novo preço (150%)": 14.9985,
+        "titulo": "Calcinha Calesson com Renda e Microfibra Patitex",
+        "ProdutoEsgotado": false
+    }
+]
