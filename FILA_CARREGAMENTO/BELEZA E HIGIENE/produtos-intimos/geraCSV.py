@@ -37,7 +37,7 @@ def convert_to_csv(json_filename, csv_filename):
                     "Handle": product_data["titulo"].lower().replace(" ", "-"),
                     "Title": product_data["titulo"],
                     "Body (HTML)": product_data["Descrição do produto"],
-                    "Vendor": product_data["Fabricante"],
+                    # "Vendor": product_data["Fabricante"],
                     # "Product Category": "Saúde e beleza > Cuidados pessoais > Lubrificantes pessoais",
                     "Product Category": "Saúde e beleza > Cuidados pessoais",
                     "Product Type": "Produtos Intimos",

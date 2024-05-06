@@ -28,43 +28,53 @@ def convert_to_csv(json_filename, csv_filename):
             # Definir o estoque baseado na disponibilidade do produto
             inventory_qty = "0" if product_data.get('ProdutoEsgotado', False) else "100"
 
-            # Iterar sobre cada variação do produto e escrever no CSV
             for variation in product_data["Variações do produto"]:
+                if variation["Disponibilidade"]:  # Verifica se a variação está disponível
+                   
+                    original_price_str = variation["Preço da variação"].replace('R$', '').replace(' ', '').replace(',', '.')
+       
+                    original_price = float(original_price_str)
+                    # Calcula 150% do preço da variação
+                    variant_price = original_price * 2.5
+                    # Formata o preço da variação calculado para duas casas decimais
+                    variant_price_formatted = "{:.2f}".format(variant_price)
 
-                variant_price = "{:.2f}".format(product_data["Novo preço (150%)"])
-                cor = variation.get('Nome da variação', 'N/A')
-                tamanho = variation.get('Tamanho da variação', 'N/A')
 
-                writer.writerow({
-                    "Handle": product_data["titulo"].lower().replace(" ", "-"),
-                    "Title": product_data["titulo"],
-                    "Body (HTML)": product_data["Descrição do produto"],
-                    # "Vendor": product_data["Fabricante"],
-                    # "Product Category": "Saúde e beleza > Cuidados pessoais > Lubrificantes pessoais",
-                    "Product Category": "Saúde e beleza > Cuidados pessoais",
-                    "Product Type": "Lingerie Plus Size",
-                    "Tags": "Lingerie Plus Size",
-                    "Option1 Name": "Cor",
-                    "Option1 Value": cor,
-                    "Option2 Name": "Tamanho",
-                    "Option2 Value": tamanho,
-                    "Variant SKU": str(variation["SKU"]),
-                    "Variant Price": variant_price,
-                    "Compare At Price": "",
-                    "Image Src": variation["Imagens da variação"],
-                    "Published": "TRUE",
-                    "Variant Inventory Tracker": "shopify",
-                    "Variant Inventory Qty": inventory_qty,  # Ajustado com base na disponibilidade
-                    "Variant Inventory Policy": "deny",
-                    "Variant Fulfillment Service": "manual",
-                    "Variant Requires Shipping": "TRUE",
-                    "Variant Taxable": "TRUE",
-                    "Gift Card": "FALSE",
-                    "SEO Title": "",
-                    "SEO Description": "",
-                    "Status": "active",
-                    "Collection": "Lingerie Plus Size"
-                })
+                    cor = variation.get('Nome da variação', 'N/A')
+                    tamanho = variation.get('Tamanho da variação', 'N/A')
+                    
+                    # ou remova o break se você precisa processar todas as variações disponíveis
+
+                    writer.writerow({
+                        "Handle": product_data["titulo"].lower().replace(" ", "-"),
+                        "Title": product_data["titulo"],
+                        "Body (HTML)": product_data["Descrição do produto"],
+                        # "Vendor": product_data["Fabricante"],
+                        # "Product Category": "Saúde e beleza > Cuidados pessoais > Lubrificantes pessoais",
+                        "Product Category": "Saúde e beleza > Cuidados pessoais",
+                        "Product Type": "Lingerie Plus Size",
+                        "Tags": "Lingerie Plus Size",
+                        "Option1 Name": "Cor",
+                        "Option1 Value": cor,
+                        "Option2 Name": "Tamanho",
+                        "Option2 Value": tamanho,
+                        "Variant SKU": str(variation["SKU"]),
+                        "Variant Price": variant_price_formatted,
+                        "Compare At Price": "",
+                        "Image Src": variation["Imagens da variação"],
+                        "Published": "TRUE",
+                        "Variant Inventory Tracker": "shopify",
+                        "Variant Inventory Qty": inventory_qty,  # Ajustado com base na disponibilidade
+                        "Variant Inventory Policy": "deny",
+                        "Variant Fulfillment Service": "manual",
+                        "Variant Requires Shipping": "TRUE",
+                        "Variant Taxable": "TRUE",
+                        "Gift Card": "FALSE",
+                        "SEO Title": "",
+                        "SEO Description": "",
+                        "Status": "active",
+                        "Collection": "Lingerie Plus Size"
+                    })
 
 # Exemplo de uso
 convert_to_csv('produtosMiess.json', 'produtosMiess.csv')

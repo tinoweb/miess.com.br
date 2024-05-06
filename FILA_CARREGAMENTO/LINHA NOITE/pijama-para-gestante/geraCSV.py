@@ -32,18 +32,22 @@ def convert_to_csv(json_filename, csv_filename):
             for variation in product_data["Variações do produto"]:
 
                 variant_price = "{:.2f}".format(product_data["Novo preço (150%)"])
+                cor = variation.get('Nome da variação', 'N/A')
+                tamanho = variation.get('Tamanho da variação', 'N/A')
 
                 writer.writerow({
                     "Handle": product_data["titulo"].lower().replace(" ", "-"),
                     "Title": product_data["titulo"],
                     "Body (HTML)": product_data["Descrição do produto"],
-                    "Vendor": product_data["Fabricante"],
+                    # "Vendor": product_data["Fabricante"],
                     # "Product Category": "Saúde e beleza > Cuidados pessoais > Lubrificantes pessoais",
                     "Product Category": "Saúde e beleza > Cuidados pessoais",
-                    "Product Type": "-----",
-                    "Tags": "-----",
-                    "Option1 Name": "Variação",
-                    "Option1 Value": variation["Nome da variação"],
+                    "Product Type": "Pijama Para Gestante",
+                    "Tags": "Pijama Para Gestante",
+                    "Option1 Name": "Cor",
+                    "Option1 Value": cor,
+                    "Option2 Name": "Tamanho",
+                    "Option2 Value": tamanho,
                     "Variant SKU": str(variation["SKU"]),
                     "Variant Price": variant_price,
                     "Compare At Price": "",
@@ -59,7 +63,7 @@ def convert_to_csv(json_filename, csv_filename):
                     "SEO Title": "",
                     "SEO Description": "",
                     "Status": "active",
-                    "Collection": "-----"
+                    "Collection": "Pijama Para Gestante"
                 })
 
 # Exemplo de uso

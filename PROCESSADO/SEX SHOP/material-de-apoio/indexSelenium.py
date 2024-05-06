@@ -11,6 +11,7 @@ import time
 # Declare a lista de produtos globalmente
 lista_de_produtos = []
 links_processados = 0
+
 url_categoria = 'https://www.miess.com.br/sex-shop/material-de-apoio'
 
 sexshop = 'sex-shop-e-produtos-eroticos-com-melhor-preco-|-miess fixVar event-set-tag event-set'
@@ -46,7 +47,7 @@ def get_product_details(url):
         soup = BeautifulSoup(response.text, 'html.parser')
 
         # html_content = soup.prettify()
-        # with open('meia.html', 'w', encoding='utf-8') as file:
+        # with open('lingerie.html', 'w', encoding='utf-8') as file:
         #     file.write(html_content)
 
         # sys.exit()
@@ -61,11 +62,44 @@ def get_product_details(url):
             sku_json_str = match.group(1)
             sku_json = json.loads(sku_json_str)
 
+            # 
             # Agora você pode acessar as informações de variação em sku_json
             variations_list = []
             for sku in sku_json.get('skus', []):
-                variation_name = sku['dimensions'].get('Cor', 'N/A')  # Obtém a cor da variação
-                variation_size = sku['dimensions'].get('Tamanho', 'N/A')  # Obtém o tamanho da variação
+                variation_name = ""
+
+                # Verificar se há uma variação de cor
+                cor = sku['dimensions'].get('Cor', None)
+                if cor:
+                    variation_name += f"Cor: {cor}"
+
+                # Verificar se há uma variação de sabor
+                sabor = sku['dimensions'].get('Sabor', None)
+                if sabor:
+                    if variation_name:
+                        variation_name += ", "
+                    variation_name += f"Sabor: {sabor}"
+
+                # Verificar se há uma variação de sabor
+                tamanho = sku['dimensions'].get('Tamanho', None)
+                if tamanho:
+                    if variation_name:
+                        variation_name += ", "
+                    variation_name += f"Tamanho: {tamanho}"
+                    
+                estampa = sku['dimensions'].get('Estampa', None)
+                if estampa:
+                    if variation_name:
+                        variation_name += ", "
+                    variation_name += f"Estampa: {estampa}"
+                    
+
+                # Adicione mais verificações para outras variações, se necessário
+
+                # Se nenhuma variação específica foi encontrada, use "N/A"
+                if not variation_name:
+                    variation_name = "N/A"
+
                 variation_image_urls = sku['image']
                 variation_sku = sku['sku']
                 variation_available = sku['available']
@@ -73,7 +107,6 @@ def get_product_details(url):
 
                 variations_list.append({
                     "Nome da variação": variation_name,
-                    "Tamanho da variação": variation_size,
                     "Imagens da variação": variation_image_urls,
                     "SKU": variation_sku,
                     "Disponibilidade": variation_available,
@@ -86,8 +119,6 @@ def get_product_details(url):
 
             # Restante do código permanece inalterado
             product_name = sku_json.get('name', '')
-            # manufacturer = ''  # Adicione a lógica para obter o fabricante, se disponível
-            # product_reference = ''  # Adicione a lógica para obter a referência, se disponível
 
             # Adicione a lógica para obter a descrição, se disponível
             product_description_element = soup.find("div", class_="productDescription")
@@ -101,8 +132,6 @@ def get_product_details(url):
 
             return {
                 "Nome do produto": product_name,
-                # "Fabricante": manufacturer,
-                # "Referência do produto": product_reference,
                 "Descrição do produto": product_description,
                 "Variações do produto": variations_list,
                 "Preço do produto": product_price,
@@ -161,7 +190,6 @@ def processar_pagina(url_base):
     
     produtos_por_pagina = 36  # Atualize conforme necessário
     numero_de_paginas = -(-total_products // produtos_por_pagina)
-    # numero_de_paginas =1
 
     while current_page <= numero_de_paginas:
         next_url = get_next_page_url(url_base, current_page)
@@ -188,6 +216,9 @@ def processar_pagina(url_base):
 
         for produto in produtos:
             link_produto_element = produto.find('a', class_='productName')
+
+
+
 
             if not link_produto_element:
                 link_produto_element = produto.find('a', class_='has--lazyload')

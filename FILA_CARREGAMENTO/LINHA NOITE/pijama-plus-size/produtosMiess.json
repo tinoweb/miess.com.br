@@ -1,26 +1,76 @@
 [
     {
+        "Nome do produto": "Camisola Ciganinha Plus Size Pimenta Sexy",
+        "Descrição do produto": "<div class=\"productDescription\">\n Camisola Ciganinha Plus Size Pimenta Sexy - Miess\n <br/>\n <br/>\n Camisola em renda, calcinha com detalhe em tuli - Tamanho único\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n 100% Poliester\n <br/>\n</div>\n",
+        "Variações do produto": [
+            {
+                "Nome da variação": "Branco",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189311-1000-1000/2023-U-Branco_1.jpg?v=637194791355830000",
+                "SKU": 29878,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Preto",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189313-1000-1000/2023-U-Preto_1.jpg?v=637194791364930000",
+                "SKU": 29879,
+                "Disponibilidade": true,
+                "Preço da variação": "R$ 63,46"
+            },
+            {
+                "Nome da variação": "Pink",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189576-1000-1000/2023-U-Pink_1.jpg?v=637194824405930000",
+                "SKU": 30086,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Amarelo",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189578-1000-1000/2023-U-Amarelo_1.jpg?v=637194824415200000",
+                "SKU": 30087,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Vermelho",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189595-1000-1000/2023-U-Vermelho_1.jpg?v=637194824486030000",
+                "SKU": 30096,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            },
+            {
+                "Nome da variação": "Azul",
+                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189597-1000-1000/2023-U-Azul_1.jpg?v=637194824493200000",
+                "SKU": 30097,
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
+            }
+        ],
+        "Preço do produto": "R$ 9.999.876,00",
+        "Novo preço (150%)": 14.9985,
+        "titulo": "Camisola Ciganinha Plus Size Pimenta Sexy",
+        "ProdutoEsgotado": false
+    },
+    {
         "Nome do produto": "Camisola Carol Plus Size em Tule e Renda Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Carol Plus Size Pimenta Sexy.\n <br/>\n <br/>\n Camisola em tule com detalhes em renda e calcinha tule.\n <br/>\n <br/>\n Tamanho único, veste 44 à 50.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliéster\n <br/>\n <br/>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Preto",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189307-1000-1000/2010PS-U-Preto_1.jpg?v=637194791337800000",
                 "SKU": 29876,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 39,88"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Vermelho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189309-1000-1000/2010PS-U-Vermelho_1.jpg?v=637194791347600000",
                 "SKU": 29877,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 39,88"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Branco",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189554-1000-1000/2010PS-U-Branco_1.jpg?v=637194824315930000",
                 "SKU": 30062,
                 "Disponibilidade": true,
@@ -34,61 +84,59 @@
     },
     {
         "Nome do produto": "Pijama Sophia Plush Plus Size Feminino com Manga Longa e Calça Coleção Inverno Victory",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  O\n  <strong>\n   Pijama Sophia\n  </strong>\n  da\n  <strong>\n   Victory\n  </strong>\n  é a peça que estava faltando para te\n  <strong>\n   aquecer\n  </strong>\n  nesse inverno.\n </p>\n <br/>\n <p>\n  Com tecido\n  <strong>\n   macio\n  </strong>\n  ele é\n  <strong>\n   confortável\n  </strong>\n  e te deixa completamente à vontade para executar suas atividades sem que fique pegando ou limitando seus movimentos.\n </p>\n <br/>\n <p>\n  Ideal para utilizar em dias de frio ou em meia estação, para levar em viagens, curtir noites com a família vendo filmes regada a muita pipoca e diversão embaixo do cobertor.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como saber se o Pijama da Victory ficará bem em mim?\n  </strong>\n </h3>\n <br/>\n <p>\n  Ele possui tamanhos que variam do\n  <strong>\n   48 ao 54\n  </strong>\n  ,\n  <strong>\n   cores\n  </strong>\n  e\n  <strong>\n   estampas\n  </strong>\n  divertidas que vão trazer mais descontração e\n  <strong>\n   alegrias\n  </strong>\n  para seus momentos. A\n  <strong>\n   camiseta\n  </strong>\n  possui\n  <strong>\n   manga longa\n  </strong>\n  com estampa, a\n  <strong>\n   calça\n  </strong>\n  é\n  <strong>\n   reta\n  </strong>\n  dando mais liberdade por ficar “\n  <strong>\n   soltinha\n  </strong>\n  ” no corpo, e listrada, deixando o visual mais jovem e\n  <strong>\n   colorido\n  </strong>\n  .\n </p>\n <br/>\n <h3>\n  <strong>\n   O que o Pijama da Victory oferece?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Delicado;\n   <br/>\n   <li>\n    • Toque Macio;\n    <br/>\n    <li>\n     • Estampas divertidas;\n     <br/>\n     <li>\n      • Conforto.\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 Camiseta de Manga Longa e 01 Calça\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem:\n    </strong>\n    Saquinho plástico.\n    <br/>\n    <li>\n     •\n     <strong>\n      Validade:\n     </strong>\n     Indeterminada.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Qual a composição do tecido do Pijama de Inverno?\n  </strong>\n </h3>\n <br/>\n <p>\n  O Pijama da Victory é composto por 64% poliéster, 32% algodão e 4% elastano.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como lavar seu Pijama da Victory?\n  </strong>\n </h3>\n <br/>\n <p>\n  Ao lavar o pijama, mantenha as devidas precauções:\n </p>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Modo de lavar:\n   </strong>\n   Lave sempre a mão, de forma delicada. Use sabão de sua preferência, enxague em água corrente e repita o processo quantas vezes forem necessárias, sem aplicar força.\n   <br/>\n   <li>\n    •\n    <strong>\n     Modo de secar:\n    </strong>\n    De preferência nas secagem à sombra e gotejamento natural, evitando tambor rotativo e calor excessivo. Além disso, evite torcer o tecido, pois pode levá-lo a perder sua qualidade, diminuindo sua vida útil.\n    <br/>\n    <li>\n     •\n     <strong>\n      Modo de passar:\n     </strong>\n     Na hora de passar o ferro na renda, cubra a peça com papel de seda, faça movimentos laterais para não romper os pontos da renda, na parte do tecido, poderá passar normalmente.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Quais cuidados e precauções preciso ter ao usar o Pijama?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   A peça pode ser lavada à mão, com água e sabão neutro;\n   <br/>\n   <li>\n    Não alvejar;\n    <br/>\n    <li>\n     Não usar secar em tambor;\n     <br/>\n     <li>\n      Secar na vertical sem torcer;\n      <br/>\n      <li>\n       Ferro de Passar roupa na temperatura máxima de 110º;\n       <br/>\n       <li>\n        Lavar a mão ou na máquina.\n       </li>\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <p>\n  <strong>\n   Atenção:\n  </strong>\n  Alguns detalhes podem sofrer alterações por parte do fornecedor, permanecendo os mesmos modelos de peças, sem tempo hábil para serem atualizadas em nosso site.\n </p>\n <br/>\n <p>\n  Imagens meramente ilustrativas. Visualizações em mobile e desktop podem sofrer alterações de cor.\n </p>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291306-1000-1000/23127-48-Azul_1.jpg?v=638158655436770000",
                 "SKU": 66732,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 100,33"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291307-1000-1000/23127-50-Azul_1.jpg?v=638158655494830000",
                 "SKU": 66733,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 100,33"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291308-1000-1000/23127-52-Azul_1.jpg?v=638158655558200000",
                 "SKU": 66734,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 100,33"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291309-1000-1000/23127-54-Azul_1.jpg?v=638158655613770000",
                 "SKU": 66735,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 100,33"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Lilas",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291310-1000-1000/23127-48-Lilas_1.jpg?v=638158655668270000",
                 "SKU": 66736,
-                "Disponibilidade": true,
-                "Preço da variação": "R$ 100,33"
+                "Disponibilidade": false,
+                "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Lilas",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291311-1000-1000/23127-50-Lilas_1.jpg?v=638158655727530000",
                 "SKU": 66737,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Lilas",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291312-1000-1000/23127-52-Lilas_1.jpg?v=638158655830500000",
                 "SKU": 66738,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Lilas",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291313-1000-1000/23127-54-Lilas_1.jpg?v=638158655931800000",
                 "SKU": 66739,
                 "Disponibilidade": false,
@@ -102,61 +150,59 @@
     },
     {
         "Nome do produto": "Pijama Americano Plus Size Meia Malha Feminino com Manga Longa e Calça Coleção Inverno Victory",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  Aquele\n  <strong>\n   pijama\n  </strong>\n  que vai fazer você se sentir em um verdadeiro filme americano.\n </p>\n <br/>\n <p>\n  Quem disse que na hora de dormir você não pode estar\n  <strong>\n   estilosa\n  </strong>\n  e\n  <strong>\n   elegante\n  </strong>\n  ?\n </p>\n <br/>\n <p>\n  Com o\n  <strong>\n   Pijama Americano\n  </strong>\n  da\n  <strong>\n   Victory\n  </strong>\n  , você vai se sentir uma verdadeira atriz de Hollywood. Ideal para os dias frios, ele é quente e possui um\n  <strong>\n   toque macio\n  </strong>\n  , que vai fazer você não querer mais tirá-lo do corpo.\n </p>\n <br/>\n <p>\n  Ele é ideal para te acompanhar em viagens, em sua rotina diária, em noites com a família, e também para mulheres que amamentam,  pois possuem\n  <strong>\n   botão\n  </strong>\n  e é\n  <strong>\n   prático\n  </strong>\n  para o uso.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como saber se o Pijama Americano ficará bem em mim?\n  </strong>\n </h3>\n <br/>\n <p>\n  Desenvolvido em tecido de\n  <strong>\n   alta qualidade\n  </strong>\n  , o pijama da\n  <strong>\n   Victory\n  </strong>\n  é macio e com toque\n  <strong>\n   suave\n  </strong>\n  na pele, seu tamanho vai do\n  <strong>\n   48 ao 54\n  </strong>\n  , e possui diversas\n  <strong>\n   cores\n  </strong>\n  para que possa escolher a que mais lhe agrada.\n </p>\n <br/>\n <p>\n  Com ele além de estar sempre\n  <strong>\n   linda\n  </strong>\n  e\n  <strong>\n   confortável\n  </strong>\n  , estará\n  <strong>\n   elegante\n  </strong>\n  e pronta para aquele soninho delicioso, depois de um dia cansativo, para recuperar suas energias, e acordar de bom humor.\n </p>\n <br/>\n <h3>\n  <strong>\n   O que o Pijama da Victory oferece?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Delicado;\n   <br/>\n   <li>\n    • Toque Macio;\n    <br/>\n    <li>\n     • Sofisticação;\n     <br/>\n     <li>\n      • Conforto.\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 Camiseta Manga Longa e 01 Calça\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem:\n    </strong>\n    Saquinho plástico.\n    <br/>\n    <li>\n     •\n     <strong>\n      Validade:\n     </strong>\n     Indeterminada.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Qual a composição do tecido do Pijama de Inverno?\n  </strong>\n </h3>\n <br/>\n <p>\n  O Pijama da Victory é composto por 67% poliéster e 33% elastano.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como lavar seu Pijama da Victory?\n  </strong>\n </h3>\n <br/>\n <p>\n  Ao lavar o pijama, mantenha as devidas precauções:\n </p>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Modo de lavar:\n   </strong>\n   Lave sempre a mão, de forma delicada. Use sabão de sua preferência, enxague em água corrente e repita o processo quantas vezes forem necessárias, sem aplicar força.\n   <br/>\n   <li>\n    •\n    <strong>\n     Modo de secar:\n    </strong>\n    De preferência nas secagem à sombra e gotejamento natural, evitando tambor rotativo e calor excessivo. Além disso, evite torcer o tecido, pois pode levá-lo a perder sua qualidade, diminuindo sua vida útil.\n    <br/>\n    <li>\n     •\n     <strong>\n      Modo de passar:\n     </strong>\n     Na hora de passar o ferro na renda, cubra a peça com papel de seda, faça movimentos laterais para não romper os pontos da renda, na parte do tecido, poderá passar normalmente.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Quais cuidados e precauções preciso ter ao usar o Pijama?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   A peça pode ser lavada à mão, com água e sabão neutro;\n   <br/>\n   <li>\n    Não alvejar;\n    <br/>\n    <li>\n     Não usar secar em tambor;\n     <br/>\n     <li>\n      Secar na vertical sem torcer;\n      <br/>\n      <li>\n       Ferro de Passar roupa na temperatura máxima de 110º;\n       <br/>\n       <li>\n        Lavar a mão ou na máquina.\n       </li>\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <p>\n  <strong>\n   Atenção:\n  </strong>\n  Alguns detalhes podem sofrer alterações por parte do fornecedor, permanecendo os mesmos modelos de peças, sem tempo hábil para serem atualizadas em nosso site.\n </p>\n <br/>\n <p>\n  Imagens meramente ilustrativas. Visualizações em mobile e desktop podem sofrer alterações de cor.\n </p>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291298-1000-1000/23128-48-Marinho_1.jpg?v=638158654868530000",
                 "SKU": 66724,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291299-1000-1000/23128-50-Marinho_1.jpg?v=638158654932970000",
                 "SKU": 66725,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291300-1000-1000/23128-52-Marinho_1.jpg?v=638158655046330000",
                 "SKU": 66726,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 112,06"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291301-1000-1000/23128-54-Marinho_1.jpg?v=638158655110830000",
                 "SKU": 66727,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 112,06"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291302-1000-1000/23128-48-Pink_1.jpg?v=638158655176770000",
                 "SKU": 66728,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 112,06"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291303-1000-1000/23128-50-Pink_1.jpg?v=638158655253100000",
                 "SKU": 66729,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291304-1000-1000/23128-52-Pink_1.jpg?v=638158655311830000",
                 "SKU": 66730,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 112,06"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/291305-1000-1000/23128-54-Pink_1.jpg?v=638158655383300000",
                 "SKU": 66731,
                 "Disponibilidade": true,
@@ -170,131 +216,129 @@
     },
     {
         "Nome do produto": "Short Doll Manga Curta Plus Size em Meia Malha Victory",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  O pijama certo para as grandes\n  <strong>\n   mulheres gostosas\n  </strong>\n  . Com um visual moderno e altamente descontraído, o Short Doll traz\n  <strong>\n   estampas\n  </strong>\n  bem divertidas e\n  <strong>\n   alegres\n  </strong>\n  , criando um visual muito jovial. Sem contar que as camisetas são mais amplas, proporcionando um toque repleto de conforto a maciez.\n </p>\n <br/>\n <h3>\n  <strong>\n   O Short Doll Plus ficará bem no corpo?\n  </strong>\n </h3>\n <br/>\n <p>\n  O\n  <strong>\n   pijama manga curta\n  </strong>\n  foi pensado especialmente para as mulheres que se enquadram nos tamanhos plus size e desejam peças para satisfazer seus desejos!\n </p>\n <br/>\n <p>\n  Além do shorts ser todo estampado, também conta\n  <strong>\n   modelagem soltinha\n  </strong>\n  e curta, que o torna ideal para os\n  <strong>\n   dias quentes\n  </strong>\n  e também para maior mobilidade, sem trazer aquela sensação de ter algo “agarrado”.\n </p>\n <br/>\n <h3>\n  <strong>\n   O que o Pijama Manga Curta oferece?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Macio;\n   <br/>\n   <li>\n    • Confortável;\n    <br/>\n    <li>\n     • Visual moderno;\n     <br/>\n     <li>\n      • Bom para dormir;\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 Shorts e 01 regata.\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem:\n    </strong>\n    Saquinho plástico.\n    <br/>\n    <li>\n     •\n     <strong>\n      Validade:\n     </strong>\n     Indeterminado.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Qual o tecido que o Short Doll é confeccionado?\n  </strong>\n </h3>\n <br/>\n <p>\n  O pijama é confeccionado em poliéster.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como lavar o Pijama Estampado?\n  </strong>\n </h3>\n <br/>\n <p>\n  Visto que a peça é delicada, mantenha as devidas precauções:\n </p>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Modo de lavar:\n   </strong>\n   Lave sempre a mão, de forma delicada. Use sabão de sua preferência, enxague em água corrente e repita o processo quantas vezes forem necessárias, sem aplicar força.\n   <br/>\n   <li>\n    •\n    <strong>\n     Modo de secar:\n    </strong>\n    De preferência nas secagem à sombra e gotejamento natural, evitando tambor rotativo e calor excessivo.\n    <br/>\n    <li>\n     •\n     <strong>\n      Modo de passar:\n     </strong>\n     Na hora de passar o ferro na renda, cubra a peça com papel de seda, faça movimentos laterais para não romper os pontos da renda, na parte do tecido, poderá passar normalmente.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Quais cuidados e precauções preciso ter ao usar o Short Doll?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Lavar a peça à mão;\n   <br/>\n   <li>\n    • Não usar cloro;\n    <br/>\n    <li>\n     • Não utilizar tambor rotativo;\n     <br/>\n     <li>\n      • Não realizar lavagem a seco;\n      <br/>\n      <li>\n       • Não expor a tanga em temperaturas acima de 40ºc;\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <p>\n  <strong>\n   Atenção:\n  </strong>\n  Alguns detalhes podem sofrer alterações por parte do fornecedor, permanecendo o mesmo modelo da peça, sem tempo hábil para serem atualizadas em nosso site.\n </p>\n <br/>\n <p>\n  Imagens meramente ilustrativas. Visualizações em mobile e desktop podem sofrer alterações de cor.\n </p>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza Mescla",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235590-1000-1000/22060-50-Cinza-Mescla_1.jpg?v=637674082830400000",
                 "SKU": 51209,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza Mescla",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235592-1000-1000/22060-52-Cinza-Mescla_1.jpg?v=637674082875000000",
                 "SKU": 51210,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marfim",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235594-1000-1000/22060-48-Marfim_1.jpg?v=637674082920500000",
                 "SKU": 51211,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marfim",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235596-1000-1000/22060-50-Marfim_1.jpg?v=637674082968800000",
                 "SKU": 51212,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marfim",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235598-1000-1000/22060-52-Marfim_1.jpg?v=637674083014730000",
                 "SKU": 51213,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235600-1000-1000/22060-48-Coral_1.jpg?v=637674083059770000",
                 "SKU": 51214,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235602-1000-1000/22060-50-Coral_1.jpg?v=637674083105900000",
                 "SKU": 51215,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235604-1000-1000/22060-52-Coral_1.jpg?v=637674083166630000",
                 "SKU": 51216,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235606-1000-1000/22060-48-Rosa-Claro_1.jpg?v=637674083228130000",
                 "SKU": 51217,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235608-1000-1000/22060-50-Rosa-Claro_1.jpg?v=637674083298370000",
                 "SKU": 51218,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 58,46"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235610-1000-1000/22060-52-Rosa-Claro_1.jpg?v=637674083356100000",
                 "SKU": 51219,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza Mescla",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235785-1000-1000/22060-48-Cinza-Mescla_1.jpg?v=637675058760370000",
                 "SKU": 51245,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Chiclete",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/250010-1000-1000/22060-48-Rosa-Chiclete_1.jpg?v=637763025971370000",
                 "SKU": 51295,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Chiclete",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/250011-1000-1000/22060-50-Rosa-Chiclete_1.jpg?v=637763026849030000",
                 "SKU": 51296,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Chiclete",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/250012-1000-1000/22060-52-Rosa-Chiclete_1.jpg?v=637763027069830000",
                 "SKU": 51297,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/239756-1000-1000/22060-48-Azul_1.jpg?v=637702626794530000",
                 "SKU": 52300,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/239758-1000-1000/22060-50-Azul_1.jpg?v=637702626841630000",
                 "SKU": 52301,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 58,46"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/239760-1000-1000/22060-52-Azul_1.jpg?v=637702626893700000",
                 "SKU": 52302,
                 "Disponibilidade": true,
@@ -308,89 +352,87 @@
     },
     {
         "Nome do produto": "Pijama Manga Comprida Plus Size Victory",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  O\n  <strong>\n   Pijama Manga Comprida\n  </strong>\n  é uma combinação essencial para ter no guarda-roupa. Além de auxiliar nos dias mais frios, as peças ainda trazem muita\n  <strong>\n   discrição\n  </strong>\n  misturadas às estampas bem alegres. É perfeito para mulheres que buscam\n  <strong>\n   conforto\n  </strong>\n  e peças de qualidade, que sejam parceiras da rotina agitada.\n </p>\n <br/>\n <p>\n  Além disso, o pijama apresenta uma\n  <strong>\n   diversidade\n  </strong>\n  de cores e estampas muito bacanas. Aproveite para adquirir o seu e permanecer sempre na moda, mesmo dentro de casa!\n </p>\n <br/>\n <h3>\n  <strong>\n   Como saber se o Pijama Manga Comprida ficará bem no corpo?\n  </strong>\n </h3>\n <br/>\n <p>\n  Atualmente a moda Loungewear ganhou muito espaço no mercado, e consiste nas peças que utilizamos para, literalmente, ‘‘ficar em casa’’. Assim, temos a chance de permanecer lindas até mesmo quando estamos dentro do nosso lar.\n </p>\n <br/>\n <p>\n  Este pijama é a melhor escolha para a mulher contemporânea que busca conforto e descontração para estar em casa e fugir do estresse cotidiano, com um ar de tendência de moda!\n </p>\n <br/>\n <h3>\n  <strong>\n   Quais os benefícios do Pijama da Victory?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Beleza;\n   <br/>\n   <li>\n    • Conforto;\n    <br/>\n    <li>\n     • Qualidade;\n     <br/>\n     <li>\n      • Durabilidade;\n      <br/>\n      <li>\n       • Aderência ao corpo;\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 Calça e 01 camiseta de manga comprida.\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem\n    </strong>\n    : Saquinho plástico.\n    <br/>\n    <ul>\n     <li>\n      •\n      <strong>\n       Informação adicional:\n      </strong>\n      Estampas variadas: sem opção de escolha.\n     </li>\n    </ul>\n    <br/>\n    <h3>\n     <strong>\n      Qual a Composição do Pijama da Victory?\n     </strong>\n    </h3>\n    <br/>\n    <p>\n     O conjunto é confeccionado em renda, sendo 90% Poliamida, 10% Elastano e 100% Algodão.\n    </p>\n    <br/>\n    <h3>\n     <strong>\n      Como lavar o Pijama Manga Comprida da Victory?\n     </strong>\n    </h3>\n    <br/>\n    <p>\n     <br/>\n     Visto que o Pijama é feito a partir de microfibra, mantenha as devidas precauções:\n    </p>\n    <br/>\n    <ul>\n     <li>\n      •\n      <strong>\n       Modo de lavar:\n      </strong>\n      Lave sempre a mão, de forma delicada. Use sabão de sua preferência, enxague em água corrente e repita o processo quantas vezes forem necessárias, sem aplicar força.\n      <br/>\n      <li>\n       •\n       <strong>\n        Modo de secar:\n       </strong>\n       De preferência nas secagem à sombra e gotejamento natural, evitando tambor rotativo e calor excessivo. Além disso,\n       <strong>\n        evite torcer\n       </strong>\n       o tecido, pois pode levá-lo a perder sua qualidade, diminuindo sua vida útil.\n       <br/>\n       <li>\n        •\n        <strong>\n         Modo de passar:\n        </strong>\n        Na hora de passar o ferro na renda, cubra a peça com papel de seda, faça movimentos laterais para não romper os pontos da renda, na parte do tecido, poderá passar normalmente.\n       </li>\n      </li>\n     </li>\n    </ul>\n    <br/>\n    <h3>\n     <strong>\n      Quais cuidados e precauções preciso ter ao usar o Pijama?\n     </strong>\n    </h3>\n    <br/>\n    <ul>\n     <li>\n      • Lavar a peça à mão;\n      <br/>\n      <li>\n       • Não usar cloro;\n       <br/>\n       <li>\n        • Não utilizar tambor rotativo;\n        <br/>\n        <li>\n         • Não realizar lavagem a seco;\n         <br/>\n         <li>\n          • Não expor o produto em temperaturas acima de 40ºc;\n         </li>\n        </li>\n       </li>\n      </li>\n     </li>\n    </ul>\n    <br/>\n    <p>\n     <strong>\n      Atenção:\n     </strong>\n     Algumas das rendas podem sofrer alterações por parte do fornecedor, permanecendo o mesmo modelo do produto, sem tempo hábil para serem atualizadas em nosso site.\n    </p>\n    <br/>\n    <p>\n     Imagens meramente ilustrativas. Visualizações em mobile e desktop podem sofrer alterações de cor.\n    </p>\n    <br/>\n    <h3>\n     <strong>\n      Clique e veja os produtos que podem ser utilizados com o Pijama:\n     </strong>\n    </h3>\n    <br/>\n    <ul>\n     <li>\n      •\n      <a href=\"https://www.miess.com.br/linha-noite/camisola\">\n       Camisola\n      </a>\n      <br/>\n      <li>\n       •\n       <a href=\"https://www.miess.com.br/linha-noite/baby-doll\">\n        Baby Doll\n       </a>\n       <br/>\n       <li>\n        •\n        <a href=\"https://www.miess.com.br/lingerie/conjunto\">\n         Conjuntos\n        </a>\n        <br/>\n        <li>\n         •\n         <a href=\"https://www.miess.com.br/linha-noite/pijama-plus-size\">\n          Pijama Plus Size\n         </a>\n        </li>\n       </li>\n      </li>\n     </li>\n    </ul>\n   </li>\n  </li>\n </ul>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/223989-1000-1000/21137-48-Coral_1.jpg?v=637582672637930000",
                 "SKU": 47632,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/223990-1000-1000/21137-50-Coral_1.jpg?v=637582672675330000",
                 "SKU": 47633,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/223991-1000-1000/21137-52-Coral_1.jpg?v=637582672711030000",
                 "SKU": 47634,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 70,20"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/227993-1000-1000/21137-48-Rosa_1.jpg?v=637624014692570000",
                 "SKU": 47629,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228001-1000-1000/21137-50-Rosa_1.jpg?v=637624021603300000",
                 "SKU": 47630,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/227997-1000-1000/21137-52-Rosa_1.jpg?v=637624019573870000",
                 "SKU": 47631,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/223992-1000-1000/21137-48-Azul-Claro_1.jpg?v=637582672848970000",
                 "SKU": 47635,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/223993-1000-1000/21137-50-Azul-Claro_1.jpg?v=637582672905130000",
                 "SKU": 47636,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/224774-1000-1000/21137-48-Azul-Claro_1.jpg?v=637588499240400000",
                 "SKU": 47637,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228005-1000-1000/21137-48-Cinza_1.jpg?v=637624025757100000",
                 "SKU": 47626,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228009-1000-1000/21137-50-Cinza_1.jpg?v=637624028094100000",
                 "SKU": 47627,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 70,20"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228013-1000-1000/21137-52-Cinza_1.jpg?v=637624030871600000",
                 "SKU": 47628,
                 "Disponibilidade": false,
@@ -404,26 +446,24 @@
     },
     {
         "Nome do produto": "Camisola Encanto Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola trabalhada em renda com detalhe em flor, acompanha tanga , dispõe das cores Preta, Vermelha, Branco.\n <br/>\n <br/>\n Tamanho Único.\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Preto",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/267320-1000-1000/2013-U-Preto_1.jpg?v=637922907746830000",
                 "SKU": 30147,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Vermelho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/267313-1000-1000/2013-U-Vermelho_1.jpg?v=637922895695100000",
                 "SKU": 30148,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Branco",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/267317-1000-1000/2013-U-Branco_1.jpg?v=637922896172600000",
                 "SKU": 58300,
                 "Disponibilidade": true,
@@ -437,33 +477,31 @@
     },
     {
         "Nome do produto": "Camisola Gabriela Plus Size em Tule e Renda Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Gabriela Plus Size Pimenta Sexy.\n <br/>\n <br/>\n Camisola em tully com detalhes em renda e 01 Calcinha Fio.\n <br/>\n <br/>\n Tamanho único, veste 44 à 50.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliéster\n <br/>\n <br/>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Vermelho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/203960-1000-1000/2009PS-U-Vermelho_1.jpg?v=637245621024530000",
                 "SKU": 30065,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 39,72"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Branco",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/203962-1000-1000/2009PS-U-Branco_1.jpg?v=637245621610300000",
                 "SKU": 30066,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 39,72"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Preto",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/203957-1000-1000/2009PS-U-Preto_1.jpg?v=637245619132800000",
                 "SKU": 30079,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 39,72"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/203965-1000-1000/2009PS-U-Azul_1.jpg?v=637245622449170000",
                 "SKU": 30101,
                 "Disponibilidade": false,
@@ -477,8 +515,6 @@
     },
     {
         "Nome do produto": "Fantasia Camisola Mamãe Noel Plus Size em Tule Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Mamãe Noel Plus Size Pimenta Sexy.\n <br/>\n <br/>\n Camisola com pompom, laço em cetim. calcinha tule e chapéu noel.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100 % Poliester\n</div>\n",
         "Variações do produto": [
             {
@@ -495,88 +531,32 @@
         "ProdutoEsgotado": false
     },
     {
-        "Nome do produto": "Camisola Ciganinha Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
-        "Descrição do produto": "<div class=\"productDescription\">\n Camisola Ciganinha Plus Size Pimenta Sexy - Miess\n <br/>\n <br/>\n Camisola em renda, calcinha com detalhe em tuli - Tamanho único\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n 100% Poliester\n <br/>\n</div>\n",
-        "Variações do produto": [
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189311-1000-1000/2023-U-Branco_1.jpg?v=637194791355830000",
-                "SKU": 29878,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            },
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189313-1000-1000/2023-U-Preto_1.jpg?v=637194791364930000",
-                "SKU": 29879,
-                "Disponibilidade": true,
-                "Preço da variação": "R$ 63,46"
-            },
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189576-1000-1000/2023-U-Pink_1.jpg?v=637194824405930000",
-                "SKU": 30086,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            },
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189578-1000-1000/2023-U-Amarelo_1.jpg?v=637194824415200000",
-                "SKU": 30087,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            },
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189595-1000-1000/2023-U-Vermelho_1.jpg?v=637194824486030000",
-                "SKU": 30096,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            },
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189597-1000-1000/2023-U-Azul_1.jpg?v=637194824493200000",
-                "SKU": 30097,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            }
-        ],
-        "Preço do produto": "R$ 9.999.876,00",
-        "Novo preço (150%)": 14.9985,
-        "titulo": "Camisola Ciganinha Plus Size Pimenta Sexy",
-        "ProdutoEsgotado": false
-    },
-    {
         "Nome do produto": "Camisola Luxo Plus Size em Renda com Abertura Frontal Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Luxo Plus Size Pimenta Sexy.\n <br/>\n <br/>\n Uma camisola que é pura sedução. Camisola em renda e tule, com detalhes em cetim. Tamanho único.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliamida\n <br/>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Preto",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189504-1000-1000/2020PS-U-Preto_1.jpg?v=637194824100670000",
                 "SKU": 29893,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 63,10"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Branco",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189506-1000-1000/2020PS-U-Branco_1.jpg?v=637194824108600000",
                 "SKU": 29894,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 63,46"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Vermelho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189548-1000-1000/2020PS-Vermelho_1.jpg?v=637194824288530000",
                 "SKU": 30050,
                 "Disponibilidade": true,
                 "Preço da variação": "R$ 63,46"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189601-1000-1000/2020PS-U-Pink_1.jpg?v=637194824515170000",
                 "SKU": 30099,
                 "Disponibilidade": true,
@@ -590,173 +570,171 @@
     },
     {
         "Nome do produto": "Pijama Tradicional Canelado Plus Size Feminino com Manga Longa e Calça Coleção Inverno Victory",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  Não existe nada mais\n  <strong>\n   gostoso\n  </strong>\n  ,\n  <strong>\n   aconchegante\n  </strong>\n  e\n  <strong>\n   prazeroso\n  </strong>\n  do que ficar em casa o dia inteiro só de pijama, para aqueles dias de preguicinha e uma noite\n  <strong>\n   agradável\n  </strong>\n  a escolha é somente uma, o\n  <strong>\n   Pijama Tradicional Canelado Plus Size\n  </strong>\n  .\n </p>\n <br/>\n <p>\n  A\n  <strong>\n   Victory\n  </strong>\n  prova com todas as letras que a sua roupa de dormir pode ser a melhor coisa que você pode ter no seu guarda roupas. Fazendo parte de uma maravilhosa\n  <strong>\n   Coleção Inverno\n  </strong>\n  , o Pijama Canelado possui aquela modelagem tradicional que todo mundo adora, sua Blusa é\n  <strong>\n   Manga Longa\n  </strong>\n  , seu tecido é Canelado, super\n  <strong>\n   confortável\n  </strong>\n  ao toque e ainda conta com\n  <strong>\n   encantadoras estampas\n  </strong>\n  .\n </p>\n <br/>\n <h3>\n  <strong>\n   Como saber se o Pijama Canelado ficará bem em mim?\n  </strong>\n </h3>\n <br/>\n <p>\n  O frio está com tudo, e com a temperatura mais baixa você merece um pijama\n  <strong>\n   quentinho\n  </strong>\n  para dormir com tranquilidade e isso a Victory garante com toda a certeza, o Pijama Tradicional Canelado possui uma grade que varia de tamanhos que vão do\n  <strong>\n   48 ao 54\n  </strong>\n  , seu tecido é super confortável e vai te aquecer nas noites mais frias, seu caimento é perfeito sobre o corpo e ainda garante um visual que mistura o\n  <strong>\n   clássico\n  </strong>\n  com o\n  <strong>\n   moderno\n  </strong>\n  .\n </p>\n <br/>\n <h3>\n  <strong>\n   O que o Pijama da Victory oferece?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Delicado;\n   <br/>\n   <li>\n    • Toque Macio;\n    <br/>\n    <li>\n     • Estampa Divertida;\n     <br/>\n     <li>\n      • Conforto.\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 Camiseta e 01 Calça;\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem:\n    </strong>\n    Saquinho plástico;\n    <br/>\n    <li>\n     •\n     <strong>\n      Validade:\n     </strong>\n     Indeterminada.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Qual a composição do tecido do Pijama de Inverno?\n  </strong>\n </h3>\n <br/>\n <p>\n  O Pijama da Victory é composto por 50% Poliéster e 50% Algodão.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como lavar seu Pijama da Victory?\n  </strong>\n </h3>\n <br/>\n <p>\n  Ao lavar o pijama, mantenha as devidas precauções:\n </p>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Modo de lavar:\n   </strong>\n   Lave sempre a mão, de forma delicada. Use sabão de sua preferência, enxague em água corrente e repita o processo quantas vezes forem necessárias, sem aplicar força.\n   <br/>\n   <li>\n    •\n    <strong>\n     Modo de secar:\n    </strong>\n    De preferência nas secagem à sombra e gotejamento natural, evitando tambor rotativo e calor excessivo. Além disso, evite torcer o tecido, pois pode levá-lo a perder sua qualidade, diminuindo sua vida útil.\n    <br/>\n    <li>\n     •\n     <strong>\n      Modo de passar:\n     </strong>\n     Na hora de passar o ferro na renda, cubra a peça com papel de seda, faça movimentos laterais para não romper os pontos da renda, na parte do tecido, poderá passar normalmente.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Quais cuidados e precauções preciso ter ao usar o Pijama?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   A peça pode ser lavada à mão, com água e sabão neutro;\n   <br/>\n   <li>\n    Não alvejar;\n    <br/>\n    <li>\n     Não usar secar em tambor;\n     <br/>\n     <li>\n      Secar na vertical sem torcer;\n      <br/>\n      <li>\n       Ferro de Passar roupa na temperatura máxima de 110º;\n       <br/>\n       <li>\n        Lavar a mão ou na máquina.\n       </li>\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <p>\n  <strong>\n   Atenção:\n  </strong>\n  Alguns detalhes podem sofrer alterações por parte do fornecedor, permanecendo os mesmos modelos de peças, sem tempo hábil para serem atualizadas em nosso site.\n </p>\n <br/>\n <p>\n  Imagens meramente ilustrativas. Visualizações em mobile e desktop podem sofrer alterações de cor.\n </p>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266252-1000-1000/22135-48-Coral_1.jpg?v=637920275526700000",
                 "SKU": 60213,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266254-1000-1000/22135-50-Coral_1.jpg?v=637920275885400000",
                 "SKU": 60214,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266256-1000-1000/22135-52-Coral_1.jpg?v=637920276225100000",
                 "SKU": 60215,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266258-1000-1000/22135-54-Coral_1.jpg?v=637920276546500000",
                 "SKU": 60216,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266260-1000-1000/22135-48-Azul-Marinho_1.jpg?v=637920277128700000",
                 "SKU": 60217,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266263-1000-1000/22135-50-Azul-Marinho_1.jpg?v=637920277523070000",
                 "SKU": 60218,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266265-1000-1000/22135-52-Azul-Marinho_1.jpg?v=637920277858600000",
                 "SKU": 60219,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Marinho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/266267-1000-1000/22135-54-Azul-Marinho_1.jpg?v=637920278156230000",
                 "SKU": 60220,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Mishy",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272835-1000-1000/22135-48-Rosa-Mishy_1.jpg?v=637974845105130000",
                 "SKU": 61933,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Mishy",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272836-1000-1000/22135-50-Rosa-Mishy_1.jpg?v=637974845140630000",
                 "SKU": 61934,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Mishy",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272837-1000-1000/22135-52-Rosa-Mishy_1.jpg?v=637974845177100000",
                 "SKU": 61935,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Mishy",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272847-1000-1000/22135-54-Rosa-Mishy_1.jpg?v=637974869745530000",
                 "SKU": 61936,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Anjo",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272838-1000-1000/22135-48-Azul-Anjo_1.jpg?v=637974845243070000",
                 "SKU": 61937,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Anjo",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272839-1000-1000/22135-50-Azul-Anjo_1.jpg?v=637974845280630000",
                 "SKU": 61938,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Anjo",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272840-1000-1000/22135-52-Azul-Anjo_1.jpg?v=637974845318970000",
                 "SKU": 61939,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Anjo",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272848-1000-1000/22135-54-Azul-Anjo_1.jpg?v=637974870111300000",
                 "SKU": 61940,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink Napi",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272841-1000-1000/22135-48-Pink-Napi_1.jpg?v=637974845384200000",
                 "SKU": 61941,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink Napi",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272842-1000-1000/22135-50-Pink-Napi_1.jpg?v=637974845420330000",
                 "SKU": 61942,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink Napi",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272843-1000-1000/22135-52-Pink-Napi_1.jpg?v=637974845456000000",
                 "SKU": 61943,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink Napi",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272849-1000-1000/22135-54-Pink-Napi_1.jpg?v=637974870368170000",
                 "SKU": 61944,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Florida",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272844-1000-1000/22135-48-Azul-Florida_1.jpg?v=637974845521500000",
                 "SKU": 61945,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Florida",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272845-1000-1000/22135-50-Azul-Florida_1.jpg?v=637974845566700000",
                 "SKU": 61946,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Florida",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272846-1000-1000/22135-52-Azul-Florida_1.jpg?v=637974845604400000",
                 "SKU": 61947,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Florida",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/272850-1000-1000/22135-54-Azul-Florida_1.jpg?v=637974870675370000",
                 "SKU": 61948,
                 "Disponibilidade": false,
@@ -770,110 +748,108 @@
     },
     {
         "Nome do produto": "Short Doll Bella Plus Size em Meia Malha Victory",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  <strong>\n   Pijama\n  </strong>\n  para todos os corpos? Aqui tem!\n </p>\n <br/>\n <p>\n  Com estampas bem divertidas e alegres, tanto para a noite quanto para o dia, ele possui um design bem descontraído.O\n  <strong>\n   Short Doll Bella\n  </strong>\n  foi pensado especialmente para as mulheres que se enquadram nos tamanhos plus size e desejam peças para satisfazer seus desejos!\n </p>\n <br/>\n <p>\n  Além do shorts ser inteiramente\n  <strong>\n   estampado\n  </strong>\n  , ainda conta\n  <strong>\n   modelagem curta\n  </strong>\n  e soltinha, ideal para os dias quentes e também para a mobilidade, sem trazer aquela sensação de ter algo “agarrado”.\n </p>\n <br/>\n <h3>\n  <strong>\n   O que o Pijama Regata oferece?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Macio;\n   <br/>\n   <li>\n    • Confortável;\n    <br/>\n    <li>\n     • Visual moderno;\n     <br/>\n     <li>\n      • Bom para dormir;\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 Shorts e 01 regata.\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem:\n    </strong>\n    Saquinho plástico.\n    <br/>\n    <li>\n     •\n     <strong>\n      Validade:\n     </strong>\n     Indeterminado.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Qual o tecido que o Short Doll é confeccionado?\n  </strong>\n </h3>\n <br/>\n <p>\n  O pijama é confeccionado em poliéster.\n </p>\n <br/>\n <h3>\n  <strong>\n   Como lavar o Pijama Listrado?\n  </strong>\n </h3>\n <br/>\n <p>\n  Visto que a peça é delicada, mantenha as devidas precauções:\n </p>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Modo de lavar:\n   </strong>\n   Lave sempre a mão, de forma delicada. Use sabão de sua preferência, enxague em água corrente e repita o processo quantas vezes forem necessárias, sem aplicar força.\n   <br/>\n   <li>\n    •\n    <strong>\n     Modo de secar:\n    </strong>\n    De preferência nas secagem à sombra e gotejamento natural, evitando tambor rotativo e calor excessivo.\n    <br/>\n    <li>\n     •\n     <strong>\n      Modo de passar:\n     </strong>\n     Na hora de passar o ferro na renda, cubra a peça com papel de seda, faça movimentos laterais para não romper os pontos da renda, na parte do tecido, poderá passar normalmente.\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Quais cuidados e precauções preciso ter ao usar o Short Doll?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Lavar a peça à mão;\n   <br/>\n   <li>\n    • Não usar cloro;\n    <br/>\n    <li>\n     • Não utilizar tambor rotativo;\n     <br/>\n     <li>\n      • Não realizar lavagem a seco;\n      <br/>\n      <li>\n       • Não expor a tanga em temperaturas acima de 40ºc;\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <p>\n  <strong>\n   Atenção:\n  </strong>\n  Alguns detalhes podem sofrer alterações por parte do fornecedor, permanecendo o mesmo modelo da peça, sem tempo hábil para serem atualizadas em nosso site.\n </p>\n <br/>\n <p>\n  Imagens meramente ilustrativas. Visualizações em mobile e desktop podem sofrer alterações de cor.\n </p>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza Mescla",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235570-1000-1000/22057-48-Cinza-Mescla_1.jpg?v=637674082189800000",
                 "SKU": 51196,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza Mescla",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235572-1000-1000/22057-50-Cinza-Mescla_1.jpg?v=637674082267530000",
                 "SKU": 51197,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza Mescla",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235574-1000-1000/22057-52-Cinza-Mescla_1.jpg?v=637674082332930000",
                 "SKU": 51198,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235576-1000-1000/22057-48-Coral_1.jpg?v=637674082396300000",
                 "SKU": 51199,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235578-1000-1000/22057-50-Coral_1.jpg?v=637674082461130000",
                 "SKU": 51200,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235580-1000-1000/22057-52-Coral_1.jpg?v=637674082518530000",
                 "SKU": 51201,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marfim",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235582-1000-1000/22057-48-Marfim_1.jpg?v=637674082564530000",
                 "SKU": 51202,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marfim",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235584-1000-1000/22057-50-Marfim_1.jpg?v=637674082610630000",
                 "SKU": 51203,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Marfim",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/235586-1000-1000/22057-52-Marfim_1.jpg?v=637674082655870000",
                 "SKU": 51204,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/239828-1000-1000/22057-48-Azul_1.jpg?v=637702662126370000",
                 "SKU": 52340,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/239830-1000-1000/22057-50-Azul_1.jpg?v=637702662178170000",
                 "SKU": 52341,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/239832-1000-1000/22057-52-Azul_1.jpg?v=637702662224300000",
                 "SKU": 52342,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Chiclete",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/250007-1000-1000/22057-52-Rosa-Chiclete_1.jpg?v=637763022872500000",
                 "SKU": 55061,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Chiclete",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/250008-1000-1000/22057-50-Rosa-Chiclete_1.jpg?v=637763022919270000",
                 "SKU": 55062,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa Chiclete",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/250009-1000-1000/22057-48-Rosa-Chiclete_1.jpg?v=637763022977670000",
                 "SKU": 55063,
                 "Disponibilidade": false,
@@ -887,89 +863,87 @@
     },
     {
         "Nome do produto": "Camisola Manga Comprida Plus Size Estampada Victory",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n <p>\n  A\n  <strong>\n   Camisola Plus Size\n  </strong>\n  é uma peça moderna para mulheres que buscam roupas para estarem em casa\n  <strong>\n   confortáveis\n  </strong>\n  e que sejam\n  <strong>\n   duráveis\n  </strong>\n  . Além disso, é uma peça que traz\n  <strong>\n   descontração\n  </strong>\n  e uma incrível\n  <strong>\n   variação de cores\n  </strong>\n  . Perfeita para criar combinações com pantufas, máscaras de dormir, além de muitos acessórios que podem formar uma dupla incrível com esta camisola maravilhosa.\n </p>\n <br/>\n <p>\n  Um “ar divertido” aliado a qualidade é o que a Camisola Manga Comprida tem a oferecer, não perca a chance de ter a sua!\n </p>\n <br/>\n <h3>\n  <strong>\n   Como saber se a Camisola Manga Comprida ficará bem no corpo?\n  </strong>\n </h3>\n <br/>\n <p>\n  Para investir nas suas peças “de casa” e ainda permanecer sempre bela e confortável, esta é a oportunidade. Suas mangas compridas ficam ótimas no corpo e são maravilhosas para suportar o frio.\n </p>\n <br/>\n <p>\n  Ainda assim, seu comprimento deixa o corpo um à mostra para manter a feminilidade e sensualidade da mulher durante sua rotina. Seu tecido pode ser combinado com muitas outras peças, como robes e casacos para se esquentar ainda mais.\n </p>\n <br/>\n <h3>\n  <strong>\n   Quais os benefícios da Camisola da Victory?\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   • Beleza;\n   <br/>\n   <li>\n    • Conforto;\n    <br/>\n    <li>\n     • Qualidade;\n     <br/>\n     <li>\n      • Durabilidade;\n      <br/>\n      <li>\n       • Aderência ao corpo;\n      </li>\n     </li>\n    </li>\n   </li>\n  </li>\n </ul>\n <br/>\n <h3>\n  <strong>\n   Ficha Técnica\n  </strong>\n </h3>\n <br/>\n <ul>\n  <li>\n   •\n   <strong>\n    Contém:\n   </strong>\n   01 camisola de manga comprida.\n   <br/>\n   <li>\n    •\n    <strong>\n     Embalagem\n    </strong>\n    : Saquinho plástico.\n    <br/>\n    <ul>\n     <li>\n      •\n      <strong>\n       Informação adicional:\n      </strong>\n      Estampas variadas: sem opção de escolha.\n     </li>\n    </ul>\n    <br/>\n    <h3>\n     <strong>\n      Qual a Composição da Camisola Plus Size da Victory?\n     </strong>\n    </h3>\n    <br/>\n    <p>\n     A camisola é confeccionado em microfibra, sendo 90% Poliamida, 10% Elastano e 100% Algodão.\n    </p>\n    <br/>\n    <h3>\n     <strong>\n      Como lavar a Camisola Manga Comprida da Victory?\n     </strong>\n    </h3>\n    <br/>\n    <p>\n     Visto que a Camisola é feita a partir de microfibra, mantenha as devidas precauções:\n    </p>\n    <br/>\n    <ul>\n     <li>\n      •\n      <strong>\n       Modo de lavar:\n      </strong>\n      Lave sempre a mão, de forma delicada. Use sabão de sua preferência, enxague em água corrente e repita o processo quantas vezes forem necessárias, sem aplicar força.\n      <br/>\n      <li>\n       •\n       <strong>\n        Modo de secar:\n       </strong>\n       De preferência nas secagem à sombra e gotejamento natural, evitando tambor rotativo e calor excessivo. Além disso,\n       <strong>\n        evite torcer\n       </strong>\n       o tecido, pois pode levá-lo a perder sua qualidade, diminuindo sua vida útil.\n       <br/>\n       <li>\n        •\n        <strong>\n         Modo de passar:\n        </strong>\n        Na hora de passar o ferro na renda, cubra a peça com papel de seda, faça movimentos laterais para não romper os pontos da renda, na parte do tecido, poderá passar normalmente.\n       </li>\n      </li>\n     </li>\n    </ul>\n    <br/>\n    <h3>\n     <strong>\n      Quais cuidados e precauções preciso ter ao usar a Camisola?\n     </strong>\n    </h3>\n    <br/>\n    <ul>\n     <li>\n      • Lavar a peça à mão;\n      <br/>\n      <li>\n       • Não usar cloro;\n       <br/>\n       <li>\n        • Não utilizar tambor rotativo;\n        <br/>\n        <li>\n         • Não realizar lavagem a seco;\n         <br/>\n         <li>\n          • Não expor o produto em temperaturas acima de 40ºc;\n         </li>\n        </li>\n       </li>\n      </li>\n     </li>\n    </ul>\n    <br/>\n    <p>\n     <strong>\n      Atenção:\n     </strong>\n     Algumas das rendas podem sofrer alterações por parte do fornecedor, permanecendo o mesmo modelo do produto, sem tempo hábil para serem atualizadas em nosso site.\n    </p>\n    <br/>\n    <p>\n     Imagens meramente ilustrativas. Visualizações em mobile e desktop podem sofrer alterações de cor.\n    </p>\n   </li>\n  </li>\n </ul>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228017-1000-1000/21139-50-Rosa_1.jpg?v=637624033086570000",
                 "SKU": 48324,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228021-1000-1000/21139-48-Rosa_1.jpg?v=637624034807870000",
                 "SKU": 48323,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Rosa",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228025-1000-1000/21139-52-Rosa_1.jpg?v=637624035896630000",
                 "SKU": 48325,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228029-1000-1000/21139-48-Azul-Claro_1.jpg?v=637624036660170000",
                 "SKU": 48326,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228033-1000-1000/21139-50-Azul-Claro_1.jpg?v=637624037282030000",
                 "SKU": 48327,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul Claro",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228037-1000-1000/21139-52-Azul-Claro_1.jpg?v=637624038470200000",
                 "SKU": 48328,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228042-1000-1000/21139-48-Coral_1.jpg?v=637624039194330000",
                 "SKU": 48329,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228066-1000-1000/21139-50-Coral_1.jpg?v=637624044550970000",
                 "SKU": 48330,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Coral",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228061-1000-1000/21139-52-Coral_1.jpg?v=637624043157370000",
                 "SKU": 48331,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228047-1000-1000/21139-48-Cinza_1.jpg?v=637624040515130000",
                 "SKU": 48332,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228055-1000-1000/21139-50-Cinza_1.jpg?v=637624042369870000",
                 "SKU": 48333,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Cinza",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/228051-1000-1000/21139-52-Cinza_1.jpg?v=637624041312130000",
                 "SKU": 48334,
                 "Disponibilidade": false,
@@ -983,47 +957,45 @@
     },
     {
         "Nome do produto": "Camisola Gigi Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Gigi Plus Size Pimenta Sexy .\n <br/>\n <br/>\n Camisola em renda, calcinha com detalhe em tuli - Tamanho único\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n 100% Poliester\n <br/>\n <br/>\n <br/>\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Pink",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189562-1000-1000/2025-U-Pink_1.jpg?v=637194824347600000",
                 "SKU": 30073,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Azul",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189563-1000-1000/2025-U-Azul_1.jpg?v=637194824351830000",
                 "SKU": 30074,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Branco",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189564-1000-1000/2025-U-Branco_1.jpg?v=637194824355800000",
                 "SKU": 30075,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Vermelho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189565-1000-1000/2025-U-Vermelho_1.jpg?v=637194824359430000",
                 "SKU": 30076,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Preto",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189566-1000-1000/2025-U-Preto_1.jpg?v=637194824366630000",
                 "SKU": 30077,
                 "Disponibilidade": false,
                 "Preço da variação": "R$ 9.999.876,00"
             },
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Amarelo",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/189599-1000-1000/2025-U-Amarelo_1.jpg?v=637194824507600000",
                 "SKU": 30098,
                 "Disponibilidade": false,
@@ -1037,8 +1009,6 @@
     },
     {
         "Nome do produto": "Camisola Gostosa Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Gostosa Plus Size Pimenta Sexy\n <br/>\n <br/>\n Uma camisola linda e confortavel, camisola em tule com detalhes em microfibra. Acompanha calcinha. Tamanho único.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliamida\n</div>\n",
         "Variações do produto": [
             {
@@ -1056,12 +1026,10 @@
     },
     {
         "Nome do produto": "Camisola Fabi Plus Size com Detalhes em Renda Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Fabi Plus Size Pimenta Sexy\n <br/>\n <br/>\n Camisola em poa trabalhado em renda, com detalhes em cetim.\n <br/>\n <br/>\n Tamanho único, veste 44 a 50.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliamida\n</div>\n",
         "Variações do produto": [
             {
-                "Nome da variação": "N/A",
+                "Nome da variação": "Vermelho",
                 "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/196794-1000-1000/2039Vermelho_1.jpg?v=637205928658100000",
                 "SKU": 30296,
                 "Disponibilidade": false,
@@ -1075,8 +1043,6 @@
     },
     {
         "Nome do produto": "Camisola Oncinha Chik Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Oncinha Chik Plus Size Pimenta Sexy\n <br/>\n <br/>\n Uma camisola com requinte, esse produto é pura sedução. Camisola trabalhada em renda e microfibra, acompanha perneira e calcinha em tule. Tamanho único.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliamida\n</div>\n",
         "Variações do produto": [
             {
@@ -1094,8 +1060,6 @@
     },
     {
         "Nome do produto": "Camisola Lu Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Lu Plus Size Pimenta Sexy\n <br/>\n <br/>\n Camisola em microfibra estampas onças variadas.\n <br/>\n <br/>\n Estampas diversas, sem opção de escolha.\n <br/>\n <br/>\n Tamanho único, veste de 44 a 50.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliester\n <br/>\n <br/>\n</div>\n",
         "Variações do produto": [
             {
@@ -1113,8 +1077,6 @@
     },
     {
         "Nome do produto": "Camisola Doçura Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
         "Descrição do produto": "<div class=\"productDescription\">\n Camisola Doçura Plus Size Pimenta Sexy.\n <br/>\n <br/>\n Camisola em liganete e busto em renda. Tamanho único. Cores e estampas variadas sem opção de escolha.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliamida\n</div>\n",
         "Variações do produto": [
             {
@@ -1128,39 +1090,6 @@
         "Preço do produto": "R$ 9.999.876,00",
         "Novo preço (150%)": 14.9985,
         "titulo": "Camisola Doçura Plus Size Pimenta Sexy",
-        "ProdutoEsgotado": true
-    },
-    {
-        "Nome do produto": "Camisola Assanhada Plus Size Pimenta Sexy",
-        "Fabricante": "",
-        "Referência do produto": "",
-        "Descrição do produto": "<div class=\"productDescription\">\n Camisola Assanhada Plus Size Pimenta Sexy.\n <br/>\n <br/>\n Uma camisola assanhadinha. Camisola em poa e tule, com detalhes em cetim. Tamanho único.\n <br/>\n <br/>\n Composição:\n <br/>\n <br/>\n 86% Poliamida\n <br/>\n 14% Elastano\n <br/>\n <br/>\n Tecido:\n <br/>\n <br/>\n 100% Poliamida\n</div>\n",
-        "Variações do produto": [
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/196778-1000-1000/2032PS-Branco_1.jpg?v=637205928618900000",
-                "SKU": 30287,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            },
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/196780-1000-1000/2032PS-Vermelho_1.jpg?v=637205928622970000",
-                "SKU": 30288,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            },
-            {
-                "Nome da variação": "N/A",
-                "Imagens da variação": "https://miess.vteximg.com.br/arquivos/ids/196796-1000-1000/2032Preto_1.jpg?v=637205928663370000",
-                "SKU": 30297,
-                "Disponibilidade": false,
-                "Preço da variação": "R$ 9.999.876,00"
-            }
-        ],
-        "Preço do produto": "R$ 9.999.876,00",
-        "Novo preço (150%)": 14.9985,
-        "titulo": "Camisola Assanhada Plus Size Pimenta Sexy",
         "ProdutoEsgotado": true
     }
 ]
